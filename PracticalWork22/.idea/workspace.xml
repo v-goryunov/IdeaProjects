@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85d78818-8f04-450d-80f8-e81b24ad0f2f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XiO5NcfjWcon1hj7Tv4FJXZcav" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Example9" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.alpha.Task22" />
+      <module name="PracticalWork22" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85d78818-8f04-450d-80f8-e81b24ad0f2f" name="Default Changelist" comment="" />
+      <created>1581525265036</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581525265036</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="194" y="172" key="FileChooserDialogImpl" timestamp="1581598316313">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="194" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1581598316313" />
+    <state x="239" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1581598162680">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="239" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1581598162680" />
+    <state x="0" y="38" key="new project wizard" timestamp="1581531892407">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="0" y="38" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1581531892407" />
+  </component>
+</project>
