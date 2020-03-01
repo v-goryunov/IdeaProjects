@@ -18,13 +18,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1YLyTyDhaOSFVcMhZHhyZ1mk2ek" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Example11" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -88,10 +90,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="249" y="104" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1582909505538" />
-    <state x="224" y="172" key="FileChooserDialogImpl" timestamp="1582994588093">
+    <state x="224" y="172" key="FileChooserDialogImpl" timestamp="1583011389412">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="224" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1582994588093" />
+    <state x="224" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1583011389412" />
     <state width="828" height="213" key="GridCell.Tab.0.bottom" timestamp="1582911693963">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -108,9 +110,13 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="828" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1582911693963" />
-    <state x="136" y="202" key="com.intellij.ide.util.TipDialog" timestamp="1582994542811">
+    <state x="0" y="60" key="SettingsEditor" timestamp="1583010479043">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="136" y="202" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1582994542811" />
+    <state x="0" y="60" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1583010479043" />
+    <state x="136" y="202" key="com.intellij.ide.util.TipDialog" timestamp="1583010030495">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="136" y="202" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1583010030495" />
   </component>
 </project>

@@ -27,7 +27,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Example13" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Example11" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
   <component name="RunManager" selected="Application.Task25">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -106,30 +107,38 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="42" y="76" width="814" height="728" key="#Intentions" timestamp="1583016506304">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="42" y="76" width="814" height="728" key="#Intentions/0.0.1536.834@0.0.1536.834" timestamp="1583016506304" />
     <state x="280" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1582721238654">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="280" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1582721238654" />
-    <state x="252" y="172" key="FileChooserDialogImpl" timestamp="1582996424338">
+    <state x="252" y="172" key="FileChooserDialogImpl" timestamp="1583012761065">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="252" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1582996424338" />
-    <state width="829" height="216" key="GridCell.Tab.0.bottom" timestamp="1582996340433">
+    <state x="252" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1583012761065" />
+    <state width="841" height="216" key="GridCell.Tab.0.bottom" timestamp="1583021579390">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="829" height="216" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1582996340433" />
-    <state width="829" height="216" key="GridCell.Tab.0.center" timestamp="1582996340433">
+    <state width="841" height="216" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1583021579390" />
+    <state width="841" height="216" key="GridCell.Tab.0.center" timestamp="1583021579390">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="829" height="216" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1582996340433" />
-    <state width="829" height="216" key="GridCell.Tab.0.left" timestamp="1582996340433">
+    <state width="841" height="216" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1583021579390" />
+    <state width="841" height="216" key="GridCell.Tab.0.left" timestamp="1583021579390">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="829" height="216" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1582996340433" />
-    <state width="829" height="216" key="GridCell.Tab.0.right" timestamp="1582996340433">
+    <state width="841" height="216" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1583021579390" />
+    <state width="841" height="216" key="GridCell.Tab.0.right" timestamp="1583021579390">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="829" height="216" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1582996340433" />
+    <state width="841" height="216" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1583021579390" />
+    <state x="0" y="60" key="SettingsEditor" timestamp="1583021537711">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="0" y="60" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1583021537711" />
     <state x="199" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1582996403928">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
