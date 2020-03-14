@@ -1,4 +1,4 @@
-package com.alpha.work21;
+package com.alpha.work3;
 
 public class Rectangle extends Shape {
     private  int width;

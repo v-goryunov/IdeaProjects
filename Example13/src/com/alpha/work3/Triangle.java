@@ -1,4 +1,4 @@
-package com.alpha.work21;
+package com.alpha.work3;
 
 public class Triangle extends Shape {
     private int a, b, c;
